@@ -1,0 +1,1 @@
+import{a as t,t as a}from"../chunks/disclose-version.DjBAOCAM.js";import"../chunks/legacy.19IEFATy.js";import{n as o}from"../chunks/runtime.nI_2DL2P.js";var h=a("<h1>THIS IS THE HOME PAGE</h1> <h1>THIS IS THE HOME PAGE</h1> <h1>THIS IS THE HOME PAGE</h1> <h1>THIS IS THE HOME PAGE</h1> <h1>THIS IS THE HOME PAGE</h1>",1);function T(E){var H=h();o(8),t(E,H)}export{T as component};
