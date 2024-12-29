@@ -1,0 +1,1 @@
+import{a as t,t as e}from"../chunks/disclose-version.CM_ElYc5.js";import"../chunks/legacy.Cgp-lv3b.js";var h=e("<main><h1>THIS IS MY ABOUT PAGE</h1> <h1>THIS IS MY ABOUT PAGE</h1> <h1>THIS IS MY ABOUT PAGE</h1> <h1>THIS IS MY ABOUT PAGE</h1> <h1>About Me</h1> <p>I'm an engineering student.</p></main>");function m(a){var n=h();t(a,n)}export{m as component};
