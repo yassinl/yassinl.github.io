@@ -1,0 +1,1 @@
+import{a as t,t as e}from"../chunks/disclose-version.D_EdxHOM.js";import"../chunks/legacy.Cw5gpVIH.js";var h=e("<main><h1>THIS IS MY ABOUT PAGE</h1> <h1>THIS IS MY ABOUT PAGE</h1> <h1>THIS IS MY ABOUT PAGE</h1> <h1>THIS IS MY ABOUT PAGE</h1> <h1>About Me</h1> <p>I'm an engineering student.</p></main>");function m(a){var n=h();t(a,n)}export{m as component};
